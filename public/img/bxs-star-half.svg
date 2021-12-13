@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" viewBox="0 0 12 12">
+    <defs>
+        <path id="7u45ck54da" d="M11.968 4.307c-.077-.226-.282-.387-.52-.405L8.026 3.63 6.547.353C6.45.138 6.236 0 6 0c-.236 0-.45.138-.547.353L3.973 3.63l-3.42.272c-.235.018-.438.173-.517.394-.08.221-.024.47.145.634l2.528 2.464-.894 3.871c-.055.24.041.488.243.628.104.071.222.107.342.107.116 0 .232-.034.333-.1L6 9.72 9.267 11.9c.209.14.483.134.687-.014.203-.148.292-.408.223-.65L9.08 7.396 11.8 4.947c.179-.16.244-.411.167-.639z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g transform="translate(-510.000000, -20.000000) translate(72.000000, 16.000000) translate(343.000000, 0.000000) translate(31.000000, 4.000000) translate(64.000000, 0.000000)">
+                            <mask id="idalu7slub" fill="#fff">
+                                <use xlink:href="#7u45ck54da"/>
+                            </mask>
+                            <use fill="#FEC311" fill-rule="nonzero" xlink:href="#7u45ck54da"/>
+                            <path fill="#E4E9EC" d="M6 0L12 0 12 12 6 12z" mask="url(#idalu7slub)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+image: php:7.4
+
+pipelines:
+  branches:
+    master:
+      -  step:
+          name: Production
+          caches:
+            - composer
+          script:
+          - apt-get update && apt-get install -y unzip
+          - apt -y autoremove
+          - apt-get install -y openssh-client
+          - ssh root@188.120.240.1 'bash -s' < execute.sh
